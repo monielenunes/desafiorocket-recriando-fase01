@@ -1,0 +1,76 @@
+body{
+ text-align: center;
+ margin: 0;
+ min-height: 100vh;
+}
+
+.fluar{
+  width: 626px;
+  margin: auto;
+ 
+}
+
+.fluar img{
+  margin-top: 64px;
+}
+
+h1{
+  margin-top: 32px;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 500;
+  color: #3F3D56;
+
+}
+
+p{
+  font-family: Open Sans;
+  font-size: 15px;
+  color:#828282;
+  line-height: 22px
+
+}
+
+h1 span{
+  color: #EE24FF;
+  font-weight: 700;
+
+}
+
+strong{
+  color: #3F3D56;
+}
+
+
+
+
+ #wave{
+  width:100%;
+  margin-top: 40px;
+}
+
+#phraseId{
+  margin-bottom: 64px;
+}
+
+.line{
+  border: 1px solid #ECEFF2;
+  width: 391px;
+  margin-bottom: 64px;
+  margin: 0 auto;
+}
+
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+}
+
+ul li{
+  color: #3F3D56;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 700;
+}
